@@ -265,14 +265,17 @@ on, and all 44 checked values matched.
 
 ## Contributions
 
-> **TO BE COMPLETED BEFORE MAKING THIS REPOSITORY PUBLIC.**
+This was a three-person group project for DATA 601 at the University of Calgary,
+with Patrick Amoni and Krena Dungrani.
 
-This was a three-person group project for DATA 601 at the University of Calgary.
+- **Problem framing and research question** — I, Patrick and Krena, discussed and
+  finalised together
+- **Data wrangling and preprocessing** — Patrick, Krena and I
+- **Exploratory analysis and visualisation** — me
+- **Modelling, cross-validation and evaluation** — me
+- **Interpretation, conclusions, written report and presentation** — discussed by
+  all three of us.
 
-- **Bhavya Dadhich** ...
-- **Patrick Amoni** ...
-- **Krena Dungrani** ...
+  No `LICENSE` file, because the work is not solely mine to license.
 
-The notebook is jointly authored and cannot be cleanly separated by file, which is why
-contributions are described here rather than by folder. The repository carries no `LICENSE` file,
-because the work is not solely mine to license.
+
