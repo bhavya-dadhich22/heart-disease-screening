@@ -265,17 +265,19 @@ on, and all 44 checked values matched.
 
 ## Contributions
 
-This was a three-person group project for DATA 601 at the University of Calgary,
-with Patrick Amoni and Krena Dungrani.
+A three-person group project for DATA 601 at the University of Calgary, with
+**Patrick Amoni** and **Krena Dungrani**.
 
-- **Problem framing and research question** — I, Patrick and Krena, discussed and
-  finalised together
-- **Data wrangling and preprocessing** — Patrick, Krena and I
-- **Exploratory analysis and visualisation** — me
-- **Modelling, cross-validation and evaluation** — me
-- **Interpretation, conclusions, written report and presentation** — discussed by
-  all three of us.
+**All three of us**
 
-  No `LICENSE` file, because the work is not solely mine to license.
+- Problem framing and the research question
+- Data wrangling and preprocessing
+- Interpretation, conclusions, the written report and the presentation
 
+**Mine**
+
+- Exploratory analysis and visualisation
+- Modelling, cross-validation and evaluation
+
+No `LICENSE` file, because the work is not solely mine to license.
 
