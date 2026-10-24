@@ -1,0 +1,9 @@
+# Python 3.13 was used to verify these results.
+# The analysis was originally run on Google Colab; the pinned versions below
+# are the ones the figures and numbers in the README were reproduced against.
+pandas==3.0.5
+numpy==2.5.3
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+jupyter
